@@ -1,4 +1,4 @@
-## Hello, Im a stundent from Krasnoyarsk, Russia. Dont be shy to send me something in VK. 🌱 I’m currently learning in SFU for cybersecurity. 👋
+## Hello, Im a stundent from Krasnoyarsk, Russia. Dont be shy to send me something in VK. 🌱 I’m currently studing in SFU for cybersecurity. 👋
 
 <!--
 **quistel/quistel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
